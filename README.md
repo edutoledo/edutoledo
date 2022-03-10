@@ -10,88 +10,74 @@ Eduardo Toledo
 
 ---------------------------------------------------------------------------
 
+Experience
+----------
+
+### **Full Stack Software Developer**
+#### Collage, Toronto, ON, July 2021 - March 2022
+
+* Worked with a small agile team to maintain and implement new features for Collage's flagship HRIS SaaS product
+* Programmed using Ruby on Rails in the backend, and ReactJS with MobX in the frontend
+* Participated in daily Scrum and weekly Sprint Planning and Backlog Grooming meetings to estimate story points and decide what to work on in the sprint
+* Used TDD and Software Engineering best practices to ensure code quality and product availability
+* Occasionally paired with team members; worked on two new features while there, dashboard and an offer workflow
+
+### **Systems Integration Designer**
+#### Nulogy, Toronto, ON, May 2014 - March 2020
+
+* Worked closely with Integration Team Lead and Professional Services Consultants to integrate Nulogy’s co-packing SaaS solution with clients’ WMS and other logistics software. Provided ongoing support to existing integrations
+* Used knowledge of XSLT to map Nulogy’s XML API to various outbound formats as well as map customer’s format to match internal XML API
+* Used third-party IPAAS (Axway) to connect and translate X12 EDI into XML and vice-versa
+* Served as T3 support for critical technical support issues
+* Communicated and coordinated directly with customers to gather requirements
+* Formed a cross-functional team with technical consultants to implement integration points, build formal mapping documents, and perform end-to-end unit testing
+* Technical resource for Professional Services and Sales teams. Provided data for both teams via SQL database queries
+
+### **NexJ Studio Developer**
+#### NexJ Systems, Toronto, ON Sep-Dec 2012 May-Dec 2013
+
+* Worked with a team of Developers on NexJ Studio, an Eclipse plugin tool written in Java
+* Developed features and worked on fixing bugs
+
+### **Internal Tools Developer**
+#### PriceMetrix, Toronto, ON May-Aug 2011 Jan-Apr 2012
+
+* Developed an internal web tool using ASP.NET to safely edit the DB system
+* Deployed and wrote deployment documentation for the tool
+* Came back for another co-op term, this time as a Software Developer working with other developers on their main SaaS solution
+
+### **Intermediate Software Developer**
+#### BMO, Toronto, ON May-Aug 2010
+
+* Worked with Quality Assurance to test all applications Bank Tellers used for the switch from Windows XP to Windows 7
+* Maintained testing documentation for weekly test releases
+
 Education
 ---------
 
-**Bachelor of Computer Science**; 2009-2014, University of Waterloo, Waterloo, ON
+**Bachelor of Computer Science** University of Waterloo, Waterloo, ON, 2009-2014
 
 *Co-op Program, Honours Computer Science, Minor Applied Mathematics\
 Graduated with Distinction*
 
-Co-op Experience
-----------------
-
-Two years of work experience during co-op terms in University of Waterloo's
-Co-op program.
-
-### May-Aug 2010
-- **Intermediate Software Developer**; BMO, Toronto, ON
-
-  - Worked with Quality Assurance to test all applications Bank Tellers used for the switch from Windows XP to Windows 7
-  - Maintained testing documentation for weekly test releases
-
-### May-Aug 2011 Jan-Apr 2012
-- **Internal Tools Developer**; PriceMetrix, Toronto, ON
-
-  - Developed an internal web tool using **ASP.NET** to safely edit the DB system
-  - Deployed and wrote deployment documentation for the tool
-  - Came back for another co-op term, this time as a **Software Developer** working with other developers on their main SaaS solution
-
-### Sep-Dec 2012 May-Dec 2013
-- **NexJ Studio Developer**; NexJ Systems, Toronto, ON
-
-  - Worked with a team of Developers on NexJ Studio, an Eclipse plugin tool written in **Java**
-  - Gained experience in **Agile Development**, primarily Scrum
-  - Developed features and worked on fixing bugs
-  - Came back for a double co-op term to work a total of one year at NexJ
-
-Experience
-----------
-
-### **Systems Integration Designer**; Nulogy, Toronto, ON, May 2014 - March
-  2020
-
-- Implemented integrations projects with partners and third party VAN services
-
-- Wrote XSLT code for XML data manipulation for hundreds of integration points
-
-- Responsible for discussing the project in initial stages with partners, gathering
-  requirements as well as constraints, creating a design plan as well as creating a
-  roadmap for the project
-
-- Understood customer business processes, software system processes and their relationships
-
-- Configured our integration layers (including in-house as well as third party software such
-  as Axway B2Bi) to establish new EDI connections and update existing ones
-
-- Ran **SQL** queries to compile usage data of our internal integrations platform
-
-- Troubleshot support issues and problems that occurred during project implementation
-  and\
-  hypercare (second/third tier support)
-
 Technical Experience
 --------------------
 
-Programming Languages
-- **XSLT 1.0:** Used for Nulogy's internal integrations platform. Interesting to use due to the fact that you're always thinking in a recursive manner, so to emulate looping and "variables" you always have to use recursive template calls.
+* **Ruby on Rails:** Extensive professional experience while working at Collage. Backend used RoR with a JSON API that the frontend used to access and modify records
 
-- **Java:** Used at NexJ for developing NexJ Studio. Also used in some courses at University of Waterloo.
+* **ReactJS with MobX:** Extensive professional experience while working at Collage. Frontend was built almost entirely with ReactJS and MobX
 
-- **Go:** Personally learning by working on small personal projects
+* **XSLT 1.0:** Used for Nulogy’s internal integrations platform. Extensive professional experience, personally used in the construction of ~200 B2B integrations
 
-- **SQL:** Learned at university, used at Nulogy to provide integration usage and volume data.
+* **Java:** Extensive professional experience, specifically in developing NexJ Studio. Also used in many Computer Science courses at University of Waterloo
 
-- **C#:** Used when developing **ASP.NET** tools and working on PriceMetrix's products.
+* **SQL:** Extensive professional experience from role at Nulogy. Regularly built queries to provide integration usage and volume data.
 
-- **C/C++:** Learned and used for various courses at University of Waterloo.
+* **C#:** Professional experience developing ASP.NET tools and working on PriceMetrix’s products
 
-- **Scheme:** Learned and used for University of Waterloo's initial Computer Science courses, uses recursion, discourages mutations.
+* **C/C++:** Experience building projects for various courses at University of Waterloo
 
-- Basic knowledge of **HTML**, **CSS**, **JavaScript**. Some experience with **React** library, learning together with **TypeScript**. Some knowledge of **terraform**, specifically for deploying to **AWS**.
-
-Languages
+Other Skills
 ---------
 
-Fluent in **Portuguese** (specifically Brazilian Portuguese) and
-**English**. Great communication and writing skills in both languages.
+Professional level fluency in Portuguese (specifically Brazilian Portuguese) and English. Great communication and writing skills in both languages.
